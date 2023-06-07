@@ -23,7 +23,7 @@ plt.ylabel("PC2")
 plt.show()
 ```
 
-- ![[PCA-figure-of-log-tranformed-data.png]]
+- ![[1.High_Dimensional_Data/Images/PCA-figure-of-log-tranformed-data.png]]
 	- The data is most dispersed along two main directions, which are captured by the principal components. The plot displays the data in terms of these components.
 	
 	- The plot shows three distinct clusters of data points, corresponding to three different cell types. The data points within each cluster are close together, while the data points between clusters are far apart. This indicates that the cell types are very different from each other in terms of the variance captured by the principal components.
